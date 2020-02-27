@@ -6,6 +6,6 @@
 <title>Git</title>
 </head>
 <body>
-<?php echo '3'; ?>
+<?php echo '1'; ?>
 </body>
 </html>
