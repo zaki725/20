@@ -2,7 +2,7 @@
 <html lang="ja">
 <head>
 <meta charset="UTF-8">
-<title>Git</title>
+<title>git</title>
 </head>
 <body>
 <?php echo '3'; ?>
